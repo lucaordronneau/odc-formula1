@@ -1,0 +1,21 @@
+EventName,DriverName,Date,RPM,Speed,nGear,Throttle,Brake,DRS,Source,Time,SessionTime
+Bahrain Grand Prix,VER,2024-03-02 15:03:42.390,9963,0,1,15,True,1,car,0 days 00:00:00.048000,0 days 00:59:59.959000
+Bahrain Grand Prix,VER,2024-03-02 15:03:42.630,9755,0,1,15,True,1,car,0 days 00:00:00.288000,0 days 01:00:00.199000
+Bahrain Grand Prix,VER,2024-03-02 15:03:42.870,8495,3,1,15,False,1,car,0 days 00:00:00.528000,0 days 01:00:00.439000
+Bahrain Grand Prix,VER,2024-03-02 15:03:43.110,6815,11,1,15,False,1,car,0 days 00:00:00.768000,0 days 01:00:00.679000
+Bahrain Grand Prix,VER,2024-03-02 15:03:43.270,5695,17,1,15,False,1,car,0 days 00:00:00.928000,0 days 01:00:00.839000
+Bahrain Grand Prix,VER,2024-03-02 15:03:43.669,3734,30,1,20,False,1,car,0 days 00:00:01.327000,0 days 01:00:01.238000
+Bahrain Grand Prix,VER,2024-03-02 15:03:44.069,5225,44,1,32,False,1,car,0 days 00:00:01.727000,0 days 01:00:01.638000
+Bahrain Grand Prix,VER,2024-03-02 15:03:44.229,6029,48,1,45,False,1,car,0 days 00:00:01.887000,0 days 01:00:01.798000
+Bahrain Grand Prix,VER,2024-03-02 15:03:44.629,8128,64,1,53,False,1,car,0 days 00:00:02.287000,0 days 01:00:02.198000
+Bahrain Grand Prix,VER,2024-03-02 15:03:44.789,9248,72,1,62,False,1,car,0 days 00:00:02.447000,0 days 01:00:02.358000
+Bahrain Grand Prix,VER,2024-03-02 15:03:45.069,10338,84,1,64,False,1,car,0 days 00:00:02.727000,0 days 01:00:02.638000
+Bahrain Grand Prix,VER,2024-03-02 15:03:45.389,12368,97,1,77,False,1,car,0 days 00:00:03.047000,0 days 01:00:02.958000
+Bahrain Grand Prix,VER,2024-03-02 15:03:45.629,10997,106,2,95,False,1,car,0 days 00:00:03.287000,0 days 01:00:03.198000
+Bahrain Grand Prix,VER,2024-03-02 15:03:45.909,10857,121,2,100,False,1,car,0 days 00:00:03.567000,0 days 01:00:03.478000
+Bahrain Grand Prix,VER,2024-03-02 15:03:46.789,10089,162,3,100,False,1,car,0 days 00:00:04.447000,0 days 01:00:04.358000
+Bahrain Grand Prix,VER,2024-03-02 15:03:47.109,10915,174,4,100,False,1,car,0 days 00:00:04.767000,0 days 01:00:04.678000
+Bahrain Grand Prix,VER,2024-03-02 15:03:47.389,11328,185,4,100,False,1,car,0 days 00:00:05.047000,0 days 01:00:04.958000
+Bahrain Grand Prix,VER,2024-03-02 15:03:47.669,11913,196,4,100,False,1,car,0 days 00:00:05.327000,0 days 01:00:05.238000
+Bahrain Grand Prix,VER,2024-03-02 15:03:47.949,10540,201,4,100,False,1,car,0 days 00:00:05.607000,0 days 01:00:05.518000
+Bahrain Grand Prix,VER,2024-03-02 15:03:48.109,10857,207,5,100,False,1,car,0 days 00:00:05.767000,0 days 01:00:05.678000

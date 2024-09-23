@@ -1,0 +1,21 @@
+EventName,Time,Status,Message
+Bahrain Grand Prix,0 days 00:10:06.010000,1,AllClear
+Bahrain Grand Prix,0 days 01:00:16.400000,2,Yellow
+Bahrain Grand Prix,0 days 01:00:20.890000,1,AllClear
+Bahrain Grand Prix,0 days 01:00:46.461000,2,Yellow
+Bahrain Grand Prix,0 days 01:00:53.481000,1,AllClear
+Bahrain Grand Prix,0 days 01:15:24.819000,2,Yellow
+Bahrain Grand Prix,0 days 01:16:15.962000,1,AllClear
+Saudi Arabian Grand Prix,0 days 00:00:00,2,Yellow
+Saudi Arabian Grand Prix,0 days 00:08:45.692000,1,AllClear
+Saudi Arabian Grand Prix,0 days 01:09:15.917000,2,Yellow
+Saudi Arabian Grand Prix,0 days 01:09:49.924000,4,SCDeployed
+Saudi Arabian Grand Prix,0 days 01:16:35.527000,1,AllClear
+Australian Grand Prix,0 days 00:00:00,1,AllClear
+Australian Grand Prix,0 days 00:00:13.560000,2,Yellow
+Australian Grand Prix,0 days 00:05:52.010000,1,AllClear
+Australian Grand Prix,0 days 01:21:24.717000,2,Yellow
+Australian Grand Prix,0 days 01:21:41.517000,6,VSCDeployed
+Australian Grand Prix,0 days 01:22:45.787000,7,VSCEnding
+Australian Grand Prix,0 days 01:23:00.690000,1,AllClear
+Australian Grand Prix,0 days 02:17:08.699000,2,Yellow
