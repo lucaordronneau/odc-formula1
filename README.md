@@ -5,6 +5,7 @@ Get a clear picture of the 2024 Formula 1 season with our comprehensive strategy
 On the EDA notebook, you can find other interesting graphs which are not present in the report, but which are more difficult to interpret.
 
 Report: report-odc-f1-LO.pdf
+
 Code notebook: eda-report.ipynb
 
 Enjoy your reading!
